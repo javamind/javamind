@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi I'm Guillaume EHRET 👋
 
+I fell into programming since my childhood a long time ago. At the start of my career I was told that to succeed you had to be a project manager, consultant, architect.... I tried each of these positions but my passion remains development and transmitting my passion.
+
+So 10 years ago I created my own company [Dev-Mind](https://dev-mind.fr/) where I am free to be a senior developer 😄. I try every day to help my customers to create user-centric solutions. I am often defined as a development craftman.
+
+Inclusion, transmission, diversity and accessibility are subjects that are close to my heart and it is for this reason that I am proud to be part of several associations such as [MiXiT](https://mixitconf.org/) and [Mixteen](https://mixteen.org/).
+
+- my favorite languages are: Kotlin, Typescript and Java
+- I love to develop Angular or VueJs frontend
+- I am a Spring Framework expert for the Java/Kotlin backends
+- I also develop on Android platform
+- ...
+
+📫 contact me via my[website](https://dev-mind.fr/)   
 <!--
 **javamind/javamind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
