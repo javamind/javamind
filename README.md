@@ -12,7 +12,7 @@ Inclusion, transmission, diversity and accessibility are subjects that are close
 - I also develop on Android platform
 - ...
 
-📫 contact me via my[website](https://dev-mind.fr/)   
+📫 contact me via my [website](https://dev-mind.fr/)   
 <!--
 **javamind/javamind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
